@@ -2,7 +2,7 @@
 
 - 🔭 Eu sou estudante de Engenharia Elétrica na UFC 🇧🇷 e na EcoleCentraleSupélec 🇫🇷
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Eu sou apaixonado por tocar/aprender sobre culturas violonísticas
+- ⚡ Fun fact: Eu sou apaixonado por tocar/aprender sobre violão e culturas violonísticas
 <!--
 **Joab-Gomes/Joab-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

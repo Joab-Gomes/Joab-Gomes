@@ -14,6 +14,8 @@
 - ⚡ Fun fact: Eu sou apaixonado por tocar/aprender sobre violão e culturas violonísticas<br/>
 </p>
 
+[![Joag_Gomes](https://github-readme-stats.vercel.app/api/top-langs/?username=Joab-Gomes&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Joab-Gomes/Joab-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

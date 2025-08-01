@@ -7,7 +7,7 @@
 <p>
 - 🌱 Eu sou estudante de Engenharia Elétrica na UFC 🇧🇷 e na EcoleCentraleSupélec 🇫🇷<br>
 - 🔭 Trabalhando atualmente como estagiário do Ministério de Gestão e Intergração no Ceará<br/> 
-- 💬 Eu sou desenvolvedor {sua stack}<br>
+- 💬 Eu sou desenvolvedor backend<br>
 - 😄 Pronouns: ele/dele<br>
 - ⚡ Fun fact: Eu sou apaixonado por tocar/aprender sobre violão e culturas violonísticas<br/>
 </p>

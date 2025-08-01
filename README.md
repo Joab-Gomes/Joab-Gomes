@@ -5,16 +5,13 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>
-  🌱 Eu sou estudante de Engenharia Elétrica na UFC 🇧🇷 e na EcoleCentraleSupélec 🇫🇷<br>
-  🔭 Trabalhando atualmente como estagiário do Ministério de Gestão e Intergração no Ceará<br/> 
-  💬 Eu sou desenvolvedor {sua stack}<br>
-  😄 Pronouns: ele/dele<br>
+- 🌱 Eu sou estudante de Engenharia Elétrica na UFC 🇧🇷 e na EcoleCentraleSupélec 🇫🇷<br>
+- 🔭 Trabalhando atualmente como estagiário do Ministério de Gestão e Intergração no Ceará<br/> 
+- 💬 Eu sou desenvolvedor {sua stack}<br>
+- 😄 Pronouns: ele/dele<br>
 - ⚡ Fun fact: Eu sou apaixonado por tocar/aprender sobre violão e culturas violonísticas<br/>
 </p>
 
-- 🔭 Eu sou estudante de Engenharia Elétrica na UFC 🇧🇷 e na EcoleCentraleSupélec 🇫🇷
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Eu sou apaixonado por tocar/aprender sobre violão e culturas violonísticas
 <!--
 **Joab-Gomes/Joab-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
